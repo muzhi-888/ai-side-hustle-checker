@@ -1,7 +1,7 @@
 ---
 name: AI 副业自检器
 version: 1.0.0
-author: content-matrix
+author: 局内人·老K
 description: 输入技能/时间/资金，给出匹配的副业方向与起步三步走法，不承诺收益。
 ---
 
